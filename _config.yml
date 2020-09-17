@@ -21,8 +21,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "M Family Dental Care"
 description              : "Opšta ordinacija denalne medicine"
-url                      : https://newtestorg.github.io/TestDental
-baseurl                  : /TestDental
+url                      : https://newtestorg.github.io
+baseurl                  : /
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.svg"
