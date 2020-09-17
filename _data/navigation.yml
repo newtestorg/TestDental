@@ -1,0 +1,14 @@
+# main links
+main:
+  #- title: "Quick-Start Guide"
+    #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "O Nama"
+  #  url: /_pages/Cenovnik
+  - title: "Cenovnik"
+    url: /Cenovnik
+  - title: "Usluge"
+    url: /_pages/Usluge    
+  - title: "Galerija"
+      #url: /404.html
+  - title: "Kontakt"
+  #   url: /sitemap/
